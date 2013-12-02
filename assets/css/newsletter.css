@@ -530,7 +530,7 @@
 			font-weight: normal;
 			font-style: italic;
 			color: #526a8c;
-			padding: 4px 10px;
+			padding: 4px 15px;
 		}
 		
 		.widget-block .p-date .vol {
@@ -567,6 +567,10 @@
 			margin: 0 9%;
 			padding: 0px;
 		}
+		
+			.widget-block ul li {
+				text-indent: -5px;	
+			}
 		
 			.widget-block ul li:before{
 				content:"-"; position:relative; left:-5px;
@@ -621,6 +625,7 @@
 		color: #526a8c;
 		font-weight: bold;
 		line-height: 24px;
+		padding-bottom: 12px;
 	}
 	
 		.search-item-news a:hover, .search-item-news a:hover h2{
@@ -642,6 +647,7 @@
 		color: #3d4550;
 		width: 32%;
 		overflow: hidden;
+		line-height: 27px;
 	}
 	
 	.cat-wrapper .cat-w-right{
@@ -651,11 +657,17 @@
 		padding: .5% 2%;
 	}
 	
-		.cat-wrapper .cat-w-right span{
+		.cat-wrapper .cat-w-right span,
+		.cat-wrapper .cat-w-right a{
 			font-family: Arial;
 			font-size: 16px;
 			font-weight: bold;
 			color: #2f568c;
+			text-decoration: none;
+		}
+		
+		.cat-wrapper .cat-w-right a:hover {
+			border-bottom: 1px solid;	
 		}
 		
 		.cat-wrapper .cat-w-right span.f-right{
@@ -877,6 +889,14 @@
 			display: inline-block;
 			margin: 0px 10px;
 		}
+		
+bdi.num {
+	text-decoration: underline;
+	font-size: 12px;
+	position: relative;
+	top: -2px;	
+	font-family: "Arial Black";
+}
 		
 		
 		

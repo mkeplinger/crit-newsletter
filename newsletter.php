@@ -64,7 +64,7 @@
 				<h4 class="news-bg">Retail Space News</h4>
 				<div class="p-date">
 					<span>published Nov 11,2013	</span>
-					<span class="vol">Vol. 39, No. 21</span>
+					<span class="vol">Vol. 39, N<bdi class="num">o</bdi> 21</span>
 					<div class="clear"></div> <!-- .clear -->
 				</div>
 				<h3 class="pin-bg">In this issue</h3>
@@ -85,7 +85,7 @@
 				<h4 class="hotel-bg">Retail Space News</h4>
 				<div class="p-date">
 					<span>published Nov 11,2013	</span>
-					<span class="vol">Vol. 39, No. 21</span>
+					<span class="vol">Vol. 39, N<bdi class="num">o</bdi> 21</span>
 					<div class="clear"></div> <!-- .clear -->
 				</div>
 				<h3 class="pin-bg">In this issue</h3>
@@ -106,7 +106,7 @@
 				<h4 class="news-bg">Retail Space News</h4>
 				<div class="p-date">
 					<span>published Nov 11,2013	</span>
-					<span class="vol">Vol. 39, No. 21</span>
+					<span class="vol">Vol. 39, N<bdi class="num">o</bdi> 21</span>
 					<div class="clear"></div> <!-- .clear -->
 				</div>
 				<h3 class="pin-bg">In this issue</h3>
@@ -127,7 +127,7 @@
 				<h4 class="hotel-bg">Retail Space News</h4>
 				<div class="p-date">
 					<span>published Nov 11,2013	</span>
-					<span class="vol">Vol. 39, No. 21</span>
+					<span class="vol">Vol. 39, N<bdi class="num">o</bdi> 21</span>
 					<div class="clear"></div> <!-- .clear -->
 				</div>
 				<h3 class="pin-bg">In this issue</h3>

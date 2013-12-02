@@ -63,7 +63,7 @@
 					<div class="widget-block">
 						<h4 class="news-bg">Retail Space News</h4>
 						<div class="p-date">
-							<span class="vol">Vol. 39, No. 21</span>
+							<span class="vol">Vol. 39, N<bdi class="num">o</bdi> 21</span>
 							<span class="pub">published Nov 11,2013	</span>
 							<div class="clear"></div> <!-- .clear -->
 						</div>
@@ -79,7 +79,7 @@
 					<div class="widget-block">
 						<h4 class="hotel-bg">Retail Space News</h4>
 						<div class="p-date">
-							<span class="vol">Vol. 39, No. 21</span>
+							<span class="vol">Vol. 39, N<bdi class="num">o</bdi> 21</span>
 							<span class="pub">published Nov 11,2013	</span>
 							<div class="clear"></div> <!-- .clear -->
 						</div>
@@ -107,7 +107,7 @@
 					<a href="#"><h2>Bridge Legenging Loosens in 2014</h2></a>
 					<div class="cat-wrapper">
 						<div class="cat-w-left">Hotel / Lodging News</div>
-						<div class="cat-w-right"><span>Vol. 29, No 18</span><span class="f-right">published Nov 11,2013</span></div>
+						<div class="cat-w-right"><a href="#">Vol. 29, N<bdi class="num">o</bdi> 18</a><span class="f-right">published Nov 11,2013</span></div>
 						<div class="clear"></div> <!-- .clear -->
 					</div>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in </p>
@@ -117,7 +117,7 @@
 					<a href="#"><h2>Bridge Legenging Loosens in 2014</h2></a>
 					<div class="cat-wrapper">
 						<div class="cat-w-left">Hotel / Lodging News</div>
-						<div class="cat-w-right"><span>Vol. 29, No 18</span><span class="f-right">published Nov 11,2013</span></div>
+						<div class="cat-w-right"><a href="#">Vol. 29, N<bdi class="num">o</bdi> 18</a><span class="f-right">published Nov 11,2013</span></div>
 						<div class="clear"></div> <!-- .clear -->
 					</div>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in </p>
@@ -127,7 +127,7 @@
 					<a href="#"><h2>Bridge Legenging Loosens in 2014</h2></a>
 					<div class="cat-wrapper">
 						<div class="cat-w-left">Hotel / Lodging News</div>
-						<div class="cat-w-right"><span>Vol. 29, No 18</span><span class="f-right">published Nov 11,2013</span></div>
+						<div class="cat-w-right"><a href="#">Vol. 29, N<bdi class="num">o</bdi> 18</a><span class="f-right">published Nov 11,2013</span></div>
 						<div class="clear"></div> <!-- .clear -->
 					</div>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in </p>
@@ -137,14 +137,14 @@
 					<a href="#"><h2>Bridge Legenging Loosens in 2014</h2></a>
 					<div class="cat-wrapper">
 						<div class="cat-w-left">Hotel / Lodging News</div>
-						<div class="cat-w-right"><span>Vol. 29, No 18</span><span class="f-right">published Nov 11,2013</span></div>
+						<div class="cat-w-right"><a href="#">Vol. 29, N<bdi class="num">o</bdi> 18</a><span class="f-right">published Nov 11,2013</span></div>
 						<div class="clear"></div> <!-- .clear -->
 					</div>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in </p>
 				</div> <!-- .search-item-news -->
 				
 				<div class="pagination-bottom">
-					<p>First <a href="#"><</a> <a href="#">4</a> <a href="#">5</a> <a href="#">6</a> <a href="#">7</a> <a href="#">8</a> <a href="#" class="active">9</a> <a href="#">10</a> <a href="#">11</a> <a href="#">12</a> <a href="#">13</a> <a href="#">></a> Last</p>
+					<p><a href="#">First</a> <a href="#"><</a> <a href="#">4</a> <a href="#">5</a> <a href="#">6</a> <a href="#">7</a> <a href="#">8</a> <a href="#" class="active">9</a> <a href="#">10</a> <a href="#">11</a> <a href="#">12</a> <a href="#">13</a> <a href="#">></a> <a href="#">Last</a></p>
 					<p><span>( Page 9 of 27 pages )</span></p>
 				</div>
 			
