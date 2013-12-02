@@ -102,6 +102,8 @@
 				</div> <!-- .news-bottom -->
 			</div> <!-- .searchbox-items -->
 			
+			<div class="clear">&nbsp;</div>
+			
 			<div class="searchbox-items">
 				<h4 class="news-bg">Retail Space News</h4>
 				<div class="p-date">
@@ -143,6 +145,8 @@
 					<div class="clear"></div> <!-- .clear -->
 				</div> <!-- .news-bottom -->
 			</div> <!-- .searchbox-items -->
+			
+			<div class="clear">&nbsp;</div>			
 			
 			<div class="clear"></div> <!-- .clear -->
 		</div> <!-- .news-offers -->

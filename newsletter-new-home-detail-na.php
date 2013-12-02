@@ -59,7 +59,7 @@
 		
 		<div class="add-menu">
 			<span class="n-edit"><a href="#">Edit</a></span>
-			<span class="f-right"><a href="#">Back to Newsletter Archives</a></span>
+			<span class="f-right"><a href="#">Back to Search Results</a></span>
 			<div class="clear"></div> <!-- .clear -->
 		</div> <!-- .add-menu -->
 		
