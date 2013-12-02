@@ -1,7 +1,38 @@
-<?php include 'inc/_head.php'; ?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Crittenden | Newsletter</title>
+<meta name="author" content="SmashBrand">
+<meta name="viewport" content="960px">
+<link href="assets/twitter-bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link href="assets/twitter-bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
+<link href="assets/css/_global.css" rel="stylesheet">
+<link href="assets/css/page-index.css" rel="stylesheet">
+<link href="assets/js/chosen/chosen/chosen.css" rel="stylesheet">
+<link href="assets/css/newsletter.css" rel="stylesheet">
 
-<!-- NEW CONTENT AREA HERE -->
-<div class="content-wrapper container-fluid">
+
+<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
+
+</head>
+
+<body class="newsletter">
+
+<?php include 'inc/header-newsletter.php'; ?>
+
+<div class="content-wrapper">
 
 	<div class="container-fluid content-area" role="main">
 
@@ -60,10 +91,10 @@
 	</div><!-- .container-fluid .content-area -->
 
 </div> <!-- .content-wrapper -->
-<!-- END: NEW CONTENT AREA HERE -->
 
-<?php include 'inc/_footer.php'; ?>
+<?php include 'inc/footer.php'; ?>
 
+<?php include 'inc/footer_js.php'; ?>
 
 </body>
 
