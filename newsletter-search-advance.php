@@ -69,7 +69,7 @@
 						<span><input type="radio" name="newsletter-type" checked="checked"> All Newsletters </span>
 						<span><input type="radio" name="newsletter-type"> Crittenden Report Real Estate Financing </span>
 						<span><input type="radio" name="newsletter-type"> Retail Space News  </span>
-						<span><input type="radio" name="newsletter-type"> Apartment Report </span>
+						<span class="last"><input type="radio" name="newsletter-type"> Apartment Report </span>
 						<div class="clear"></div> <!-- .clear -->
 					</div> <!-- .bottom-search -->
 					<p class="submit"><input type="submit" name="submit" value="Search"></p>

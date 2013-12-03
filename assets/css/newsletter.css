@@ -71,8 +71,8 @@
 }
 
 .news-searchbox-inner-advance{
-	padding: 1.8% 5% .5%;
-	width: 90%;
+	padding: 1.8% 0% .5% 3%;
+	width: 93%;
 }
 
 .news-searchbox-inner2{
@@ -817,8 +817,12 @@
 			font-weight: normal;
 			color: #3d4550;
 			float: left;
-			margin-right: 22px;
+			margin-right: 19px;
 		}
+		
+			.news-searchbox-inner-advance .bottom-search span.last {
+				margin-right: 0px;
+			}
 		
 		.bottom-search span.label{
 			font-family: Arial;
