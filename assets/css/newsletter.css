@@ -67,7 +67,7 @@
 .news-searchbox-inner{
 	padding: 1.8% 5%;
 	width: 90%;
-	height: 66px;
+	height: 80px;
 }
 
 .news-searchbox-inner-advance{
@@ -102,6 +102,7 @@
 		width: 92%;
 		float: left;
 		height: auto;
+		margin-bottom: 18px;
 	}
 	
 	.top-search input[type="submit"]{
@@ -162,20 +163,23 @@
 		background-position: right;
 		border-radius: 6px;
 		overflow: hidden;
-		padding-right: 10px;
-		margin-top: -4px;
+		padding-right: 26px;
+		margin-top: -5px;
 	}
 	
 	.bottom-search .select-wrap select {
 		border: none;
 		margin: 0;
 		font-size: 12px;
-		width: 115%;
+		width: 122%;
 		cursor: pointer;
 		color: #3d4550;
 		outline: none;	
 		background: transparent;
-	}
+		-webkit-appearance:none;	
+		padding: 7px 10px 6px;
+		line-height: 13px;
+}
 	
 	
 .newsletter-form-title-inner{
@@ -932,8 +936,3 @@ bdi.num {
 	top: -2px;	
 	font-family: "Arial Black";
 }
-		
-		
-		
-	
-		
