@@ -67,8 +67,12 @@
 .news-searchbox-inner{
 	padding: 1.8% 5%;
 	width: 90%;
-	height: 80px;
+	min-height: 80px;
 }
+
+	.news-searchbox-inner form, .news-searchbox-inner2 form {
+		margin: 0px;
+	}
 
 .news-searchbox-inner-advance{
 	padding: 1.8% 0% .5% 3%;
@@ -78,7 +82,7 @@
 .news-searchbox-inner2{
 	padding: 1% 5%;
 	width: 90%;
-	height: 116px;
+	min-height: 0px;
 }
 
 .top-search{

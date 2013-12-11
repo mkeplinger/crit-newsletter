@@ -16,9 +16,14 @@
 					</div> <!-- .top-search -->
 					<div class="bottom-search">
 						<span><input type="radio" name="newsletter-type" checked="checked"> All Newsletters </span>
-						<span><input type="radio" name="newsletter-type"> Crittenden Report Real Estate Financing </span>
-						<span><input type="radio" name="newsletter-type"> Retail Space News  </span>
-						<span><input type="radio" name="newsletter-type"> Apartment Report </span>
+						<span><input type="radio" name="newsletter-type"> Specific Newsletter </span>
+						<div class="select-wrap">
+                        	<select name="custom-newsletter">
+                            	<option value="Crittenden Report: Real Estate Financing">Crittenden Report: Real Estate Financing</option>
+                                <option value="Retail Space News">Retail Space News</option>
+                                <option value="Hotel/Lodging News">Hotel/Lodging News</option>
+                            </select>
+                        </div>
 						<span class="advance-search"><a href="#">Advance Search</a></span>
 						<div class="clear"></div> <!-- .clear -->
 					</div> <!-- .bottom-search -->
