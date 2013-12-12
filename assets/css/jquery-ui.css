@@ -273,6 +273,8 @@ button.ui-button::-moz-focus-inner {
 .ui-datepicker .ui-datepicker-title select {
 	font-size: 1em;
 	margin: 1px 0;
+	padding: 0px;
+	height: 24px;
 }
 .ui-datepicker select.ui-datepicker-month-year {
 	width: 100%;

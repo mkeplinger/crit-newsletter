@@ -66,10 +66,26 @@
 					</div>
 					<div class="bottom-search">
 						<span class="label">Limit search to...</span>
-						<span><input type="radio" name="newsletter-type" checked="checked"> All Newsletters </span>
-						<span><input type="radio" name="newsletter-type"> Crittenden Report Real Estate Financing </span>
-						<span><input type="radio" name="newsletter-type"> Retail Space News  </span>
-						<span class="last"><input type="radio" name="newsletter-type"> Apartment Report </span>
+						<span>
+							<label for="all-newsletters">
+								<input type="radio" name="newsletter-type" checked="checked" id="all-newsletters"> All Newsletters 
+							</label>
+						</span>
+						<span>
+							<label for="report">
+								<input type="radio" name="newsletter-type" id="report"> Crittenden Report Real Estate Financing 
+							</label>
+						</span>
+						<span>
+							<label for="retail">
+								<input type="radio" name="newsletter-type" id="retail"> Retail Space News 
+							</label>
+						</span>
+						<span class="last">
+							<label for="apt-report">
+								<input type="radio" name="newsletter-type" id="apt-report"> Apartment Report 
+							</label>
+						</span>
 						<div class="clear"></div> <!-- .clear -->
 					</div> <!-- .bottom-search -->
 					<p class="submit"><input type="submit" name="submit" value="Search"></p>

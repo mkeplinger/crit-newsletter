@@ -61,7 +61,7 @@
 
         <div class="container-fluid">
 
-            <p class="pull-left">Copyright © 2012 Crittenden.com All Rights Reserved.</p>
+            <p class="pull-left">Copyright &copy; 2012 Crittenden.com All Rights Reserved.</p>
             <p class="pull-right">Developed by <a href="http://www.smashbrand.com" target="_blank">SmashBrand</a></p>
         </div><!-- .container-fluid -->
 
@@ -74,11 +74,15 @@
 <script src="http://crittenden-dev.smashbrand.com/media/twitter-bootstrap/js/jquery.js"></script>
 <script src="http://crittenden-dev.smashbrand.com/media/twitter-bootstrap/js/bootstrap-dropdown.js"></script>
 <script src="http://crittenden-dev.smashbrand.com/media/twitter-bootstrap/js/bootstrap-modal.js"></script>
-<!--<script src="http://crittenden-dev.smashbrand.com/media/js/subscriber/chosen/chosen/chosen.jquery.js"></script>-->
+<script src="http://crittenden-dev.smashbrand.com/media/js/subscriber/chosen/chosen/chosen.jquery.js"></script>
 <script src="http://crittenden-dev.smashbrand.com/media/js/jquery.placeholder.min.js"></script>
 <script src="http://crittenden-dev.smashbrand.com/media/js/subscriber/functions.js"></script>
 <script src="http://crittenden-dev.smashbrand.com/media/js/search.js"></script>
 <script src="http://crittenden-dev.smashbrand.com/media/js/secure-content.js"></script>
+<script src="assets/twitter-bootstrap/js/bootstrap.min.js"></script>
+<script src="assets/js/jquery-ui.js"></script>
+<script src="assets/js/respond.src.js"></script>
+<script src="assets/js/functions.js"></script>
 <script>
     function goBack(){
         window.history.back();

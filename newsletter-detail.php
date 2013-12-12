@@ -15,11 +15,29 @@
 						<div class="clear"></div> <!-- .clear -->
 					</div> <!-- .top-search -->
 					<div class="bottom-search">
-						<span><input type="radio" name="newsletter-type" checked="checked"> All Newsletters </span>
-						<span><input type="radio" name="newsletter-type"> Crittenden Report Real Estate Financing </span>
-						<span><input type="radio" name="newsletter-type"> Retail Space News  </span>
-						<span><input type="radio" name="newsletter-type"> Apartment Report </span>
-						<span class="advance-search"><a href="#">Advance Search</a></span>
+						<span>
+							<label for="all-newsletters">
+								<input type="radio" name="newsletter-type" id="all-newsletters" checked="checked"> All Newsletters 
+							</label>
+						</span>
+						<span>
+							<label for="report">
+								<input type="radio" name="newsletter-type" id="report"> Crittenden Report Real Estate Financing 
+							</label>
+						</span>
+						<span>
+							<label for="retail">
+								<input type="radio" name="newsletter-type" id="retail"> Retail Space News  
+							</label>
+						</span>
+						<span>
+							<label for="apt-report">
+								<input type="radio" name="newsletter-type" id="apt-report"> Apartment Report 
+							</label>
+						</span>
+						<span class="advance-search">
+							<a href="#">Advance Search</a>
+						</span>
 						<div class="clear"></div> <!-- .clear -->
 					</div> <!-- .bottom-search -->
 				</form>

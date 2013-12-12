@@ -16,8 +16,16 @@
 						<div class="clear"></div> <!-- .clear -->
 					</div> <!-- .top-search -->
 					<div class="bottom-search">
-						<span><input type="radio" name="newsletter-type" checked="checked"> All Newsletters </span>
-						<span><input type="radio" name="newsletter-type"> Specific Newsletter </span>
+						<span>
+							<label for="all-newsletters">
+								<input type="radio" name="newsletter-type" checked="checked" id="all-newsletters"> All Newsletters 
+							</label>
+						</span>
+						<span>
+							<label for="specific-newsletter">
+								<input type="radio" name="newsletter-type" id="specific-newsletter"> Specific Newsletter 
+							</label>
+						</span>
 						<div class="select-wrap">
                         	<select name="custom-newsletter">
                             	<option value="Crittenden Report: Real Estate Financing">Crittenden Report: Real Estate Financing</option>

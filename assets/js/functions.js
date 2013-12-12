@@ -29,13 +29,19 @@ $(document).ready(function(){
     // Pass the array to our preload function
     $(imgSwap).preload();
 	
-	$('.search-advance-input').focus(function(){
+	$('.search-advance-input').blur(function(){
 		 var text = $(this).val();   
 		 if(text != ''){
-			$('.search-advance-input').css('background', 'none!important');       
+			$(this).css('background-image', 'none');       
+		 }
+		
+		else{
+			$(this).css('background-image', 'url("assets/images/newsletter/search-icon-grey.png")');
+			$(this).css('background-repeat', 'no-repeat');
+			$(this).css('background-position', '3% center');
 		 }
 	 });
- 
+	 
 });
 
   $(function() {

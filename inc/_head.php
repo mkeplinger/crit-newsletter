@@ -1,9 +1,17 @@
-<html lang="en">
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
+
     <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>Crittenden | Home</title>
     <meta name="author" content="SmashBrand">
-    <meta name="viewport" content="960px">
+    <meta name="viewport" content="width=960px">
+	<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+	<meta name = "format-detection" content = "telephone=no">
     <link href="http://crittenden-dev.smashbrand.com/media/twitter-bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="http://crittenden-dev.smashbrand.com/media/twitter-bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
     <link href="http://crittenden-dev.smashbrand.com/media/css/_global.css" rel="stylesheet">
@@ -11,10 +19,10 @@
     <link href="http://crittenden-dev.smashbrand.com/media/js/subscriber/chosen/chosen/chosen.css" rel="stylesheet">
     <link href="assets/css/newsletter.css" rel="stylesheet">
 
-    
-<link href="http://crittenden-dev.smashbrand.com/media/js/subscriber/jquery-ui-1.9.0/css/start/jquery-ui-1.9.0.custom.min.css" rel="stylesheet">
+	<link href="http://crittenden-dev.smashbrand.com/media/js/subscriber/jquery-ui-1.9.0/css/start/jquery-ui-1.9.0.custom.min.css" rel="stylesheet">
+	<link href="assets/css/jquery-ui.css" rel="stylesheet">
 
-
+	<script src="assets/js/modernizr-2.6.2.min.js"></script>
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
@@ -35,7 +43,7 @@
       </style>
     <![endif]-->
     
-        <script type="text/javascript" async src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript" async src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript">
+    <script type="text/javascript" async src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript" async src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript">
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
