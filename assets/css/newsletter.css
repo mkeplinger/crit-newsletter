@@ -227,7 +227,7 @@
 	margin: 0 auto 30px;
 	padding: 38px 0px;
 }
-
+	
 	.searchbox-items{
 		float: left;
 		width: 47.7%;
@@ -259,7 +259,6 @@
 	}
 	
 	.p-date{
-		background: #e0e0e0;
 		border-left: solid 3px #fff;
 		border-right: solid 3px #fff;
 		font-family: Arial;
@@ -270,12 +269,19 @@
 		padding: 4px 30px 4px 50px;
 	}
 	
+	.highlite{
+		background: #e0e0e0;
+	}
+	
 		.p-date .vol{
 			font-family: Arial;
 			font-size: 16px;
 			font-weight: bold;
 			color: #2f568c;
 			font-style: normal;
+		}
+		
+		.p-date .right {
 			float: right;
 		}
 		
