@@ -33,7 +33,7 @@
                                 <option value="Hotel/Lodging News">Hotel/Lodging News</option>
                             </select>
                         </div>
-						<span class="advance-search"><a href="#">Advance Search</a></span>
+						<span class="advance-search"><a href="#">Advanced Search</a></span>
 						<div class="clear"></div> <!-- .clear -->
 					</div> <!-- .bottom-search -->
 				</form>
@@ -42,6 +42,7 @@
 		
 		<div class="news-offers">
 			
+			<h1>Browse <span class="something">Hotel/Lodging News</span></h1>
 			<h2 class="paddingB20px">Most Recent Issues</h2>
 		
 			<div class="searchbox-items">
