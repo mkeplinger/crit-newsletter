@@ -477,7 +477,7 @@
 	
 	.title-box p{
 		font-family: Arial;
-		font-size: 18px;
+		font-size: 16px;
 		font-weight: normal;
 		color: #3d4550;
 		margin: 0px 0px 10px;
@@ -998,7 +998,7 @@ bdi.num {
 	
 	.color-brown .title-box h1{
 		color: #663300;
-		margin: 0px 0px 20px;
+		margin: 0px 0px 14px;
 	}
 	
 		.color-brown .title-box h1 span{
@@ -1011,10 +1011,10 @@ bdi.num {
 	
 	.color-brown .title-second-box p{
 		font-family: Arial;
-		font-size: 18px;
+		font-size: 16px;
 		font-weight: normal;
 		color: #663300;
-		margin: 0px 0px 6px;
+		margin: 2px 0px 6px;
 	}
 	
 	.color-brown .vol-headline {
@@ -1058,7 +1058,7 @@ bdi.num {
 	
 	.color-red .title-box h1{
 		color: #e10000;
-		margin: 0px 0px 20px;
+		margin: 0px 0px 10px;
 		font-style: italic;
 	}
 	
@@ -1072,10 +1072,10 @@ bdi.num {
 	
 	.color-red .title-second-box p{
 		font-family: Arial;
-		font-size: 18px;
+		font-size: 16px;
 		font-weight: normal;
 		color: #e10000;
-		margin: 0px 0px 6px;
+		margin: 6px 0px 6px;
 	}
 	
 	.color-red .vol-headline {
@@ -1163,8 +1163,8 @@ bdi.num {
 		color: #fff;
 		width: 20%;
 		float: right;
-		padding: 2%;
-		min-height: 92px;
+		padding: 20px 2%;
+		min-height: 100px;
 	}
 	
 		.color-blue .masthead-content-right ul{
@@ -1176,7 +1176,7 @@ bdi.num {
 			font-family: Arial;
 			font-size: 18px;
 			font-weight: normal;
-			margin-bottom: 10px;
+			margin-bottom: 8px;
 			font-style: italic;
 		}
 		
