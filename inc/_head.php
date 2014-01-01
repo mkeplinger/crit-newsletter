@@ -24,15 +24,9 @@
 
 	<script src="assets/js/modernizr-2.6.2.min.js"></script>
 
-    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
-    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    	<style type="text/css">
-		.container-fluid {
-			max-width: 960px;
-			margin: 0 auto;
-		}
-	</style>
+	    <link href="assets/css/ie8.css" rel="stylesheet">
+	    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
     <!--[if gte IE 9]>

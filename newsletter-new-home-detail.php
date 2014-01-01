@@ -10,7 +10,7 @@
 				<h1 class="newsletter-title-inner">Crittenden Newsletter Article Search</h1>
 				<form action="#" method="post">
 					<div class="top-search">
-						<input type="text" name="news-search-input" placeholder="search articles">
+						<input type="text" class="top-search-text-input" name="news-search-input" placeholder="search articles">
 						<input type="submit">
 						<div class="clear"></div> <!-- .clear -->
 					</div> <!-- .top-search -->
