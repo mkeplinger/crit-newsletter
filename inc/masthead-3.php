@@ -18,7 +18,9 @@
 				
 				<div class="masthead-content-right">
 					<ul>
-						<li></li>
+						<li>Commercial Lines</li>
+						<li class="second">Reinsurance</li>
+						<li class="third">Worker's Comp</li>
 					</ul>
 				</div><!-- .masthead-content-box-right -->
 				
