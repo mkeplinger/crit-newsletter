@@ -57,7 +57,9 @@
 				<span>published Nov 11,2013</span>
 			</div> <!-- .vol-head -->
 			
-<?php include 'inc/masthead-1.php'; ?>
+<?php //include 'inc/masthead-1.php'; ?>
+<?php //include 'inc/masthead-2.php'; ?>
+<?php include 'inc/masthead-3.php'; ?>
 			
 			<div class="content-text-inner">
 			

@@ -979,3 +979,168 @@ bdi.num {
 	top: -2px;	
 	font-family: "Arial Black";
 }
+
+/* Masthead Brown*/
+.color-brown{
+	color: #663300;
+	border: solid 1px #663300;
+	background: #fff;
+}
+
+	.color-brown .title-box{
+		border-bottom: solid 1px #663300;
+		padding: 0.5% 1% 0%;
+	}
+	
+	.color-brown .title-second-box{
+		padding: 0.5% 1% 0%;
+	}
+	
+	.color-brown .title-box h1{
+		color: #663300;
+		margin: 0px 0px 20px;
+	}
+	
+	.color-brown .title-box p{
+		color: #663300;
+	}
+	
+	.color-brown .title-second-box p{
+		font-family: Arial;
+		font-size: 18px;
+		font-weight: normal;
+		color: #663300;
+		margin: 0px;
+	}
+	
+	.color-brown .vol-headline {
+		color: #663300;
+		background: none;
+		padding: 10px;
+		border-bottom: 0px;
+	}
+	
+	.color-brown .masthead-bar-left{
+		width: 4%;
+		float: left;
+		background: #663300;
+		height: 170px;
+	}
+	
+	.color-brown .masthead-content-middle{
+		width: 96%;
+		float: left;
+	}
+	
+	.color-brown .masthead-content-right{
+		display: none;
+	}
+	
+/* Masthead Red */
+.color-red{
+	color: #e10000;
+	border: solid 1px #e10000;
+	background: #fff;
+}
+
+	.color-red .title-box{
+		border-bottom: solid 1px #e10000;
+		padding: 0.5% 1% 0%;
+	}
+	
+	.color-red .title-second-box{
+		padding: 0.5% 1% 0%;
+	}
+	
+	.color-red .title-box h1{
+		color: #e10000;
+		margin: 0px 0px 20px;
+	}
+	
+	.color-red .title-box p{
+		color: #e10000;
+	}
+	
+	.color-red .title-second-box p{
+		font-family: Arial;
+		font-size: 18px;
+		font-weight: normal;
+		color: #e10000;
+		margin: 0px;
+	}
+	
+	.color-red .vol-headline {
+		color: #e10000;
+		background: none;
+		padding: 10px;
+		border-bottom: 0px;
+	}
+	
+	.color-red .masthead-bar-left{
+		width: 4%;
+		float: left;
+		border-right: solid 1px #e10000;
+		height: 170px;
+	}
+	
+	.color-red .masthead-content-middle{
+		width: 95.9%;
+		float: left;
+	}
+	
+	.color-red .masthead-content-right{
+		display: none;
+	}
+	
+/* Masthead Blue */
+.color-blue{
+	color: #273573;
+	border: solid 1px #273573;
+	background: #fff;
+}
+
+	.color-blue .title-box{
+		border-bottom: solid 1px #273573;
+		padding: 0.5% 1% 0%;
+	}
+	
+	.color-blue .title-second-box{
+		padding: 0.5% 1% 0%;
+	}
+	
+	.color-blue .title-box h1{
+		color: #273573;
+		margin: 0px 0px 20px;
+	}
+	
+	.color-blue .title-box p{
+		color: #273573;
+	}
+	
+	.color-blue .title-second-box p{
+		font-family: Arial;
+		font-size: 18px;
+		font-weight: normal;
+		color: #273573;
+		margin: 0px;
+	}
+	
+	.color-blue .vol-headline {
+		color: #273573;
+		background: none;
+		padding: 10px;
+		border-bottom: 0px;
+	}
+	
+	.color-blue .masthead-bar-left{
+		display: none;
+	}
+	
+	.color-blue .masthead-content-middle{
+		width: 95.9%;
+		float: left;
+	}
+	
+	.color-blue .masthead-content-right{
+		display: none;
+	}
