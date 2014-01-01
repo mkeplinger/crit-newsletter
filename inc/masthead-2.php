@@ -7,7 +7,7 @@
 					<div class="vol-headline">Crittenden’s</div><!-- .vol-headline -->
 					
 					<div class="title-box">
-						<h1>Medical Insurance &trade;</h1>
+						<h1>Medical Insurance <span>&trade;</span></h1>
 						<p>Malpractice &#9632; Professional Liability &#9632; Directors & Officers &#9632; Errors & Omissions</p>
 					</div><!-- .title-box -->
 					

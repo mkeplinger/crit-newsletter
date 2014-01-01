@@ -61,7 +61,9 @@
 <?php //include 'inc/masthead-2.php'; ?>
 <?php //include 'inc/masthead-3.php'; ?>
 <?php //include 'inc/masthead-4.php'; ?>
-<?php include 'inc/masthead-5.php'; ?>
+<?php //include 'inc/masthead-5.php'; ?>
+<?php //include 'inc/masthead-6.php'; ?>
+<?php include 'inc/masthead-7.php'; ?>
 			
 			<div class="content-text-inner">
 			

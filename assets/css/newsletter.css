@@ -1001,6 +1001,10 @@ bdi.num {
 		margin: 0px 0px 20px;
 	}
 	
+		.color-brown .title-box h1 span{
+			font-size: 24px;
+		}
+	
 	.color-brown .title-box p{
 		color: #663300;
 	}
@@ -1010,7 +1014,7 @@ bdi.num {
 		font-size: 18px;
 		font-weight: normal;
 		color: #663300;
-		margin: 0px;
+		margin: 0px 0px 6px;
 	}
 	
 	.color-brown .vol-headline {
@@ -1024,7 +1028,7 @@ bdi.num {
 		width: 4%;
 		float: left;
 		background: #663300;
-		height: 170px;
+		min-height: 178px;
 	}
 	
 	.color-brown .masthead-content-middle{
@@ -1058,6 +1062,10 @@ bdi.num {
 		font-style: italic;
 	}
 	
+		.color-red .title-box h1 span{
+			font-size: 24px;
+		}
+	
 	.color-red .title-box p{
 		color: #e10000;
 	}
@@ -1067,7 +1075,7 @@ bdi.num {
 		font-size: 18px;
 		font-weight: normal;
 		color: #e10000;
-		margin: 0px;
+		margin: 0px 0px 6px;
 	}
 	
 	.color-red .vol-headline {
@@ -1081,11 +1089,11 @@ bdi.num {
 		width: 4%;
 		float: left;
 		border-right: solid 1px #e10000;
-		height: 170px;
+		min-height: 178px;
 	}
 	
 	.color-red .masthead-content-middle{
-		width: 95.9%;
+		width: 95.8%;
 		float: left;
 	}
 	
@@ -1115,6 +1123,10 @@ bdi.num {
 		font-style: italic;
 	}
 	
+		.color-blue .title-box h1 span{
+			font-size: 24px;
+		}
+	
 	.color-blue .title-box p{
 		color: #273573;
 	}
@@ -1142,21 +1154,21 @@ bdi.num {
 	}
 	
 	.color-blue .masthead-content-middle{
-		width: 75%;
+		width: 76%;
 		float: left;
 	}
 	
 	.color-blue .masthead-content-right{
 		background: #273573;
 		color: #fff;
-		width: 21%;
-		float: left;
+		width: 20%;
+		float: right;
 		padding: 2%;
 		min-height: 92px;
 	}
 	
 		.color-blue .masthead-content-right ul{
-			padding-left: 30px;
+			padding-left: 24px;
 		}
 	
 		.color-blue .masthead-content-right ul li{
@@ -1169,14 +1181,14 @@ bdi.num {
 		}
 		
 			.color-blue .masthead-content-right ul li.second{
-				margin-left: 30px;
+				margin-left: 17px;
 			}
 			
 			.color-blue .masthead-content-right ul li.third{
-				margin-left: 60px;
+				margin-left: 34px;
 			}
 			
-/* Maroon Blue */
+/* Masthead Maroon */
 .color-maroon{
 	color: #840000;
 }
@@ -1197,6 +1209,10 @@ bdi.num {
 	
 		.color-maroon .title-box h1 img{
 			margin-top: -10px;
+		}
+		
+		.color-maroon .title-box h1 span{
+			font-size: 24px;
 		}
 	
 	.color-maroon .title-box p{
@@ -1227,7 +1243,7 @@ bdi.num {
 		display: none;
 	}
 	
-/* Maroon Blue 2 */
+/* Masthead Blue 2 */
 .color-blue2{
 	color: #000085;
 }
@@ -1248,6 +1264,10 @@ bdi.num {
 	
 		.color-blue2 .title-box h1 img{
 			margin-top: -10px;
+		}
+		
+		.color-blue2 .title-box h1 span{
+			font-size: 24px;
 		}
 	
 	.color-blue2 .title-box p{
@@ -1275,5 +1295,125 @@ bdi.num {
 	}
 	
 	.color-blue2 .masthead-content-right{
+		display: none;
+	}
+	
+/* Masthead Green */
+.color-green{
+	color: #008e91;
+}
+
+	.color-green .title-box{
+		border-bottom: solid 1px #008e91;
+		padding: 0.5% 1% 0%;
+	}
+	
+	.color-green .title-second-box{
+		padding: 0.5% 1% 0%;
+	}
+	
+	.color-green .title-box h1{
+		color: #008e91;
+		margin: 8px 0px 14px;
+		text-align: center;
+		font-style: italic;
+	}
+	
+		.color-green .title-box h1 span{
+			font-size: 24px;
+		}
+	
+	.color-green .title-box p{
+		color: #008e91;
+	}
+	
+	.color-green .title-second-box p{
+		font-family: Arial;
+		font-size: 18px;
+		font-weight: normal;
+		color: #008e91;
+		margin: 0px 0px 4px;
+		text-align: center;
+	}
+	
+	.color-green .vol-headline {
+		display: none;
+	}
+	
+	.color-green .masthead-bar-left{
+		display: none;
+	}
+	
+	.color-green .masthead-content-middle{
+		display: block;
+	}
+	
+	.color-green .masthead-content-right{
+		display: none;
+	}
+	
+/* Masthead Yellow */
+.color-yellow{
+	color: #ff9900;
+}
+
+	.color-yellow .title-box{
+		border-bottom: solid 1px #ff9900;
+		padding: 0.5% 0% 0%;
+	}
+	
+	.color-yellow .title-second-box{
+		padding: 0.5% 1% 0%;
+	}
+	
+	.color-yellow .title-box h1{
+		color: #ff9900;
+		margin: 8px 0px 8px;
+		text-align: center;
+	}
+	
+		.color-yellow .title-box h1 img{
+			margin-top: -10px;
+		}
+		
+		.color-yellow .title-box h1 span{
+			font-size: 24px;
+		}
+	
+	.color-yellow .title-box p{
+		color: #ff9900;
+		text-align: center;
+		border-top: solid 1px #ff9900;
+		padding-top: 4px;
+		margin-bottom: 4px;
+		font-style: italic;
+	}
+	
+	.color-yellow .title-second-box p{
+		font-family: Arial;
+		font-size: 18px;
+		font-weight: normal;
+		color: #ff9900;
+		margin: 0px 0px 4px;
+		text-align: center;
+	}
+	
+		.color-yellow .title-second-box p span{
+			margin: 0 1%;
+		}
+	
+	.color-yellow .vol-headline {
+		display: none;
+	}
+	
+	.color-yellow .masthead-bar-left{
+		display: none;
+	}
+	
+	.color-yellow .masthead-content-middle{
+		display: block;
+	}
+	
+	.color-yellow .masthead-content-right{
 		display: none;
 	}

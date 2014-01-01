@@ -1,4 +1,4 @@
-			<div class="masthead-layout layout-bar-left color-brown">
+			<div class="masthead-layout layout-bar-left color-blue2">
 			
 				<div class="masthead-bar-left">&nbsp;</div>
 				
@@ -7,18 +7,21 @@
 					<div class="vol-headline">Crittenden’s</div><!-- .vol-headline -->
 					
 					<div class="title-box">
-						<h1>Specialty Coverages Insider <span>&trade;</span></h1>
-						<p>Excess & Surplus Lines &#9632; Admitted Carriers &#9632; Alternative & Offshore Markets</p>
+						<h1>Crittenden <img src="assets/images/newsletter/tm-blue.png" alt="crit"> Retail Space &trade;</h1>
 					</div><!-- .title-box -->
 					
 					<div class="title-second-box">
-						<p>Crittenden Newsletters &#9632; P.O. Box 1150, Novato, CA 94948 &#9632; Customer Service: (800) 421-3483</p>
+						<p>Crittenden Research, Inc. <br/> P.O. Box 1150 <br/> Novato, CA 94948 <br/> (800) 421-3483</p>
 					</div><!-- .title-second-box -->
 				
 				</div><!-- .masthead-content-right -->
 				
 				<div class="masthead-content-right">
-					&nbsp;
+					<ul>
+						<li>Commercial Lines</li>
+						<li class="second">Reinsurance</li>
+						<li class="third">Worker's Comp</li>
+					</ul>
 				</div><!-- .masthead-content-box-right -->
 				
 				<div class="clear"></div> <!-- clear end -->

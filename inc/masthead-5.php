@@ -7,7 +7,7 @@
 					<div class="vol-headline">Crittenden’s</div><!-- .vol-headline -->
 					
 					<div class="title-box">
-						<h1>Crittenden <img src="assets/images/newsletter/tm-blue.png" alt="crit"> Retail Space &trade;</h1>
+						<h1>Crittenden <img src="assets/images/newsletter/tm-blue.png" alt="crit"> Retail Space <span>&trade;</span></h1>
 					</div><!-- .title-box -->
 					
 					<div class="title-second-box">
