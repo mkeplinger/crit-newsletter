@@ -1175,3 +1175,105 @@ bdi.num {
 			.color-blue .masthead-content-right ul li.third{
 				margin-left: 60px;
 			}
+			
+/* Maroon Blue */
+.color-maroon{
+	color: #840000;
+}
+
+	.color-maroon .title-box{
+		border-bottom: solid 1px #840000;
+		padding: 0.5% 1% 0%;
+	}
+	
+	.color-maroon .title-second-box{
+		padding: 0.5% 1% 0%;
+	}
+	
+	.color-maroon .title-box h1{
+		color: #840000;
+		margin: 8px 0px 14px;
+	}
+	
+		.color-maroon .title-box h1 img{
+			margin-top: -10px;
+		}
+	
+	.color-maroon .title-box p{
+		color: #840000;
+	}
+	
+	.color-maroon .title-second-box p{
+		font-family: Arial;
+		font-size: 18px;
+		font-weight: normal;
+		color: #840000;
+		margin: 0px 0px 4px;
+	}
+	
+	.color-maroon .vol-headline {
+		display: none;
+	}
+	
+	.color-maroon .masthead-bar-left{
+		display: none;
+	}
+	
+	.color-maroon .masthead-content-middle{
+		display: block;
+	}
+	
+	.color-maroon .masthead-content-right{
+		display: none;
+	}
+	
+/* Maroon Blue 2 */
+.color-blue2{
+	color: #000085;
+}
+
+	.color-blue2 .title-box{
+		border-bottom: solid 1px #000085;
+		padding: 0.5% 1% 0%;
+	}
+	
+	.color-blue2 .title-second-box{
+		padding: 0.5% 1% 0%;
+	}
+	
+	.color-blue2 .title-box h1{
+		color: #000085;
+		margin: 8px 0px 14px;
+	}
+	
+		.color-blue2 .title-box h1 img{
+			margin-top: -10px;
+		}
+	
+	.color-blue2 .title-box p{
+		color: #000085;
+	}
+	
+	.color-blue2 .title-second-box p{
+		font-family: Arial;
+		font-size: 18px;
+		font-weight: normal;
+		color: #000085;
+		margin: 0px 0px 4px;
+	}
+	
+	.color-blue2 .vol-headline {
+		display: none;
+	}
+	
+	.color-blue2 .masthead-bar-left{
+		display: none;
+	}
+	
+	.color-blue2 .masthead-content-middle{
+		display: block;
+	}
+	
+	.color-blue2 .masthead-content-right{
+		display: none;
+	}
