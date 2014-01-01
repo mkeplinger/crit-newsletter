@@ -227,7 +227,11 @@
 	margin: 0 auto 30px;
 	padding: 38px 0px;
 }
-
+	
+	.news-offers .something{
+		color: #0056A2;
+}
+	
 	.searchbox-items{
 		float: left;
 		width: 47.7%;
@@ -259,7 +263,6 @@
 	}
 	
 	.p-date{
-		background: #e0e0e0;
 		border-left: solid 3px #fff;
 		border-right: solid 3px #fff;
 		font-family: Arial;
@@ -270,12 +273,19 @@
 		padding: 4px 30px 4px 50px;
 	}
 	
+	.highlite{
+		background: #e0e0e0;
+	}
+	
 		.p-date .vol{
 			font-family: Arial;
 			font-size: 16px;
 			font-weight: bold;
 			color: #2f568c;
 			font-style: normal;
+		}
+		
+		.p-date .right {
 			float: right;
 		}
 		
@@ -969,3 +979,441 @@ bdi.num {
 	top: -2px;	
 	font-family: "Arial Black";
 }
+
+/* Masthead Brown*/
+.color-brown{
+	color: #663300;
+	border: solid 1px #663300;
+	background: #fff;
+}
+
+	.color-brown .title-box{
+		border-bottom: solid 1px #663300;
+		padding: 0.5% 1% 0%;
+	}
+	
+	.color-brown .title-second-box{
+		padding: 0.5% 1% 0%;
+	}
+	
+	.color-brown .title-box h1{
+		color: #663300;
+		margin: 0px 0px 20px;
+	}
+	
+		.color-brown .title-box h1 span{
+			font-size: 24px;
+		}
+	
+	.color-brown .title-box p{
+		color: #663300;
+	}
+	
+	.color-brown .title-second-box p{
+		font-family: Arial;
+		font-size: 18px;
+		font-weight: normal;
+		color: #663300;
+		margin: 0px 0px 6px;
+	}
+	
+	.color-brown .vol-headline {
+		color: #663300;
+		background: none;
+		padding: 10px;
+		border-bottom: 0px;
+	}
+	
+	.color-brown .masthead-bar-left{
+		width: 4%;
+		float: left;
+		background: #663300;
+		min-height: 178px;
+	}
+	
+	.color-brown .masthead-content-middle{
+		width: 96%;
+		float: left;
+	}
+	
+	.color-brown .masthead-content-right{
+		display: none;
+	}
+	
+/* Masthead Red */
+.color-red{
+	color: #e10000;
+	border: solid 1px #e10000;
+	background: #fff;
+}
+
+	.color-red .title-box{
+		border-bottom: solid 1px #e10000;
+		padding: 0.5% 1% 0%;
+	}
+	
+	.color-red .title-second-box{
+		padding: 0.5% 1% 0%;
+	}
+	
+	.color-red .title-box h1{
+		color: #e10000;
+		margin: 0px 0px 20px;
+		font-style: italic;
+	}
+	
+		.color-red .title-box h1 span{
+			font-size: 24px;
+		}
+	
+	.color-red .title-box p{
+		color: #e10000;
+	}
+	
+	.color-red .title-second-box p{
+		font-family: Arial;
+		font-size: 18px;
+		font-weight: normal;
+		color: #e10000;
+		margin: 0px 0px 6px;
+	}
+	
+	.color-red .vol-headline {
+		color: #e10000;
+		background: none;
+		padding: 10px;
+		border-bottom: 0px;
+	}
+	
+	.color-red .masthead-bar-left{
+		width: 4%;
+		float: left;
+		border-right: solid 1px #e10000;
+		min-height: 178px;
+	}
+	
+	.color-red .masthead-content-middle{
+		width: 95.8%;
+		float: left;
+	}
+	
+	.color-red .masthead-content-right{
+		display: none;
+	}
+	
+/* Masthead Blue */
+.color-blue{
+	color: #273573;
+	border: solid 1px #273573;
+	background: #fff;
+}
+
+	.color-blue .title-box{
+		border-bottom: solid 1px #273573;
+		padding: 0.5% 1% 0%;
+	}
+	
+	.color-blue .title-second-box{
+		padding: 0.5% 1% 0%;
+	}
+	
+	.color-blue .title-box h1{
+		color: #273573;
+		margin: 8px 0px 14px;
+		font-style: italic;
+	}
+	
+		.color-blue .title-box h1 span{
+			font-size: 24px;
+		}
+	
+	.color-blue .title-box p{
+		color: #273573;
+	}
+	
+	.color-blue .title-second-box p{
+		font-family: Arial;
+		font-size: 18px;
+		font-weight: normal;
+		color: #273573;
+		margin: 0px 0px 4px;
+		font-style: italic;
+	}
+	
+	.color-blue .vol-headline {
+		color: #fff;
+		background: url(../images/newsletter/head-news.png);
+		padding: 10px;
+		border-bottom: 0px;
+		background-repeat: repeat-y;
+		font-style: italic;
+	}
+	
+	.color-blue .masthead-bar-left{
+		display: none;
+	}
+	
+	.color-blue .masthead-content-middle{
+		width: 76%;
+		float: left;
+	}
+	
+	.color-blue .masthead-content-right{
+		background: #273573;
+		color: #fff;
+		width: 20%;
+		float: right;
+		padding: 2%;
+		min-height: 92px;
+	}
+	
+		.color-blue .masthead-content-right ul{
+			padding-left: 24px;
+		}
+	
+		.color-blue .masthead-content-right ul li{
+			list-style: disc;
+			font-family: Arial;
+			font-size: 18px;
+			font-weight: normal;
+			margin-bottom: 10px;
+			font-style: italic;
+		}
+		
+			.color-blue .masthead-content-right ul li.second{
+				margin-left: 17px;
+			}
+			
+			.color-blue .masthead-content-right ul li.third{
+				margin-left: 34px;
+			}
+			
+/* Masthead Maroon */
+.color-maroon{
+	color: #840000;
+}
+
+	.color-maroon .title-box{
+		border-bottom: solid 1px #840000;
+		padding: 0.5% 1% 0%;
+	}
+	
+	.color-maroon .title-second-box{
+		padding: 0.5% 1% 0%;
+	}
+	
+	.color-maroon .title-box h1{
+		color: #840000;
+		margin: 8px 0px 14px;
+	}
+	
+		.color-maroon .title-box h1 img{
+			margin-top: -10px;
+		}
+		
+		.color-maroon .title-box h1 span{
+			font-size: 24px;
+		}
+	
+	.color-maroon .title-box p{
+		color: #840000;
+	}
+	
+	.color-maroon .title-second-box p{
+		font-family: Arial;
+		font-size: 18px;
+		font-weight: normal;
+		color: #840000;
+		margin: 0px 0px 4px;
+	}
+	
+	.color-maroon .vol-headline {
+		display: none;
+	}
+	
+	.color-maroon .masthead-bar-left{
+		display: none;
+	}
+	
+	.color-maroon .masthead-content-middle{
+		display: block;
+	}
+	
+	.color-maroon .masthead-content-right{
+		display: none;
+	}
+	
+/* Masthead Blue 2 */
+.color-blue2{
+	color: #000085;
+}
+
+	.color-blue2 .title-box{
+		border-bottom: solid 1px #000085;
+		padding: 0.5% 1% 0%;
+	}
+	
+	.color-blue2 .title-second-box{
+		padding: 0.5% 1% 0%;
+	}
+	
+	.color-blue2 .title-box h1{
+		color: #000085;
+		margin: 8px 0px 14px;
+	}
+	
+		.color-blue2 .title-box h1 img{
+			margin-top: -10px;
+		}
+		
+		.color-blue2 .title-box h1 span{
+			font-size: 24px;
+		}
+	
+	.color-blue2 .title-box p{
+		color: #000085;
+	}
+	
+	.color-blue2 .title-second-box p{
+		font-family: Arial;
+		font-size: 18px;
+		font-weight: normal;
+		color: #000085;
+		margin: 0px 0px 4px;
+	}
+	
+	.color-blue2 .vol-headline {
+		display: none;
+	}
+	
+	.color-blue2 .masthead-bar-left{
+		display: none;
+	}
+	
+	.color-blue2 .masthead-content-middle{
+		display: block;
+	}
+	
+	.color-blue2 .masthead-content-right{
+		display: none;
+	}
+	
+/* Masthead Green */
+.color-green{
+	color: #008e91;
+}
+
+	.color-green .title-box{
+		border-bottom: solid 1px #008e91;
+		padding: 0.5% 1% 0%;
+	}
+	
+	.color-green .title-second-box{
+		padding: 0.5% 1% 0%;
+	}
+	
+	.color-green .title-box h1{
+		color: #008e91;
+		margin: 8px 0px 14px;
+		text-align: center;
+		font-style: italic;
+	}
+	
+		.color-green .title-box h1 span{
+			font-size: 24px;
+		}
+	
+	.color-green .title-box p{
+		color: #008e91;
+	}
+	
+	.color-green .title-second-box p{
+		font-family: Arial;
+		font-size: 18px;
+		font-weight: normal;
+		color: #008e91;
+		margin: 0px 0px 4px;
+		text-align: center;
+	}
+	
+	.color-green .vol-headline {
+		display: none;
+	}
+	
+	.color-green .masthead-bar-left{
+		display: none;
+	}
+	
+	.color-green .masthead-content-middle{
+		display: block;
+	}
+	
+	.color-green .masthead-content-right{
+		display: none;
+	}
+	
+/* Masthead Yellow */
+.color-yellow{
+	color: #ff9900;
+}
+
+	.color-yellow .title-box{
+		border-bottom: solid 1px #ff9900;
+		padding: 0.5% 0% 0%;
+	}
+	
+	.color-yellow .title-second-box{
+		padding: 0.5% 1% 0%;
+	}
+	
+	.color-yellow .title-box h1{
+		color: #ff9900;
+		margin: 8px 0px 8px;
+		text-align: center;
+	}
+	
+		.color-yellow .title-box h1 img{
+			margin-top: -10px;
+		}
+		
+		.color-yellow .title-box h1 span{
+			font-size: 24px;
+		}
+	
+	.color-yellow .title-box p{
+		color: #ff9900;
+		text-align: center;
+		border-top: solid 1px #ff9900;
+		padding-top: 4px;
+		margin-bottom: 4px;
+		font-style: italic;
+	}
+	
+	.color-yellow .title-second-box p{
+		font-family: Arial;
+		font-size: 18px;
+		font-weight: normal;
+		color: #ff9900;
+		margin: 0px 0px 4px;
+		text-align: center;
+	}
+	
+		.color-yellow .title-second-box p span{
+			margin: 0 1%;
+		}
+	
+	.color-yellow .vol-headline {
+		display: none;
+	}
+	
+	.color-yellow .masthead-bar-left{
+		display: none;
+	}
+	
+	.color-yellow .masthead-content-middle{
+		display: block;
+	}
+	
+	.color-yellow .masthead-content-right{
+		display: none;
+	}
