@@ -57,13 +57,20 @@
 				<span>published Nov 11,2013</span>
 			</div> <!-- .vol-head -->
 			
-<?php //include 'inc/masthead-1.php'; ?>
-<?php //include 'inc/masthead-2.php'; ?>
-<?php //include 'inc/masthead-3.php'; ?>
-<?php //include 'inc/masthead-4.php'; ?>
-<?php //include 'inc/masthead-5.php'; ?>
-<?php //include 'inc/masthead-6.php'; ?>
+<?php include 'inc/masthead-1.php'; ?>
+<br>
+<?php include 'inc/masthead-2.php'; ?>
+<br>
+<?php include 'inc/masthead-3.php'; ?>
+<br>
+<?php include 'inc/masthead-4.php'; ?>
+<br>
+<?php include 'inc/masthead-5.php'; ?>
+<br>
+<?php include 'inc/masthead-6.php'; ?>
+<br>
 <?php include 'inc/masthead-7.php'; ?>
+<br>
 			
 			<div class="content-text-inner">
 			
