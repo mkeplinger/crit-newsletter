@@ -7,7 +7,7 @@
 					<div class="vol-headline">Crittenden’s</div><!-- .vol-headline -->
 					
 					<div class="title-box">
-						<h1><span>The</span> Crittenden <img src="assets/images/newsletter/tm-yellow.png" alt="crit"> <span>&trade;</span> Report <span>&reg;</span> <span>Real Estate Financing</span></h1>
+						<h1><span class="italic">The</span> Crittenden <img src="assets/images/newsletter/tm-yellow.png" alt="crit"> <span>&trade;</span> Report <span>&reg;</span> <span>Real Estate Financing</span></h1>
 						<p>The Nation's Leading Newsletter on Real Estate Finance</p>
 					</div><!-- .title-box -->
 					

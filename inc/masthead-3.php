@@ -11,7 +11,7 @@
 					</div><!-- .title-box -->
 					
 					<div class="title-second-box">
-						<p>Crittenden Research, Inc. &#9632; P.O. Box 1150 &#9632; Novato, CA 94948 &#9632; (800) 421-3483</p>
+						<p><span>Crittenden Research, Inc.</span> &#9632; <span>P.O. Box 1150</span> &#9632; <span>Novato, CA 94948</span> &#9632; <span>(800) 421-3483</span></p>
 					</div><!-- .title-second-box -->
 				
 				</div><!-- .masthead-content-right -->

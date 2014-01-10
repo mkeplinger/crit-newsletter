@@ -8,11 +8,11 @@
 					
 					<div class="title-box">
 						<h1>Specialty Coverages Insider <span>&trade;</span></h1>
-						<p>Excess & Surplus Lines &#9632; Admitted Carriers &#9632; Alternative & Offshore Markets</p>
+						<p><span>Excess & Surplus Lines</span> &#9632; <span>Admitted Carriers</span> &#9632; <span>Alternative & Offshore Markets</span></p>
 					</div><!-- .title-box -->
 					
 					<div class="title-second-box">
-						<p>Crittenden Newsletters &#9632; P.O. Box 1150, Novato, CA 94948 &#9632; Customer Service: (800) 421-3483</p>
+						<p><span>Crittenden Newsletters</span> &#9632; <span>P.O. Box 1150, Novato, CA 94948</span> &#9632; <span>Customer Service: (800) 421-3483</span></p>
 					</div><!-- .title-second-box -->
 				
 				</div><!-- .masthead-content-right -->

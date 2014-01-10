@@ -997,6 +997,8 @@ bdi.num {
 	}
 	
 	.color-brown .title-box h1{
+		font-family: Britannic Bold;
+		font-weight: normal;
 		color: #663300;
 		margin: 0px 0px 14px;
 	}
@@ -1006,18 +1008,40 @@ bdi.num {
 		}
 	
 	.color-brown .title-box p{
-		color: #663300;
-	}
-	
-	.color-brown .title-second-box p{
-		font-family: Arial;
-		font-size: 16px;
+		font-family: Britannic Bold;
 		font-weight: normal;
 		color: #663300;
-		margin: 2px 0px 6px;
+		text-align: center;
 	}
 	
+		.color-brown .title-box span{
+			font-family: Britannic Bold;
+			font-weight: normal;
+			font-size: 16px;
+			color: #663300;
+			margin: 0px 20px;
+		}
+	
+	.color-brown .title-second-box p{
+		font-family: Britannic Bold;
+		font-weight: normal;
+		font-size: 16px;
+		color: #663300;
+		margin: 2px 0px 6px;
+		text-align: center;
+	}
+	
+		.color-brown .title-second-box span{
+			font-family: Britannic Bold;
+			font-weight: normal;
+			font-size: 16px;
+			color: #663300;
+			margin: 0px 20px;
+		}
+	
 	.color-brown .vol-headline {
+		font-family: Britannic Bold;
+		font-weight: normal;
 		color: #663300;
 		background: none;
 		padding: 10px;
@@ -1068,7 +1092,12 @@ bdi.num {
 	
 	.color-red .title-box p{
 		color: #e10000;
+		word-spacing: 10px;
 	}
+	
+			.color-red .title-box p span{
+				margin-left: 10px;
+			}
 	
 	.color-red .title-second-box p{
 		font-family: Arial;
@@ -1078,12 +1107,22 @@ bdi.num {
 		margin: 6px 0px 6px;
 	}
 	
+		.color-red .title-second-box p span{
+			margin-left: 10px;
+		}
+	
 	.color-red .vol-headline {
+		font-family: Times New Roman;
+		font-weight: bold;
 		color: #e10000;
 		background: none;
 		padding: 10px;
 		border-bottom: 0px;
 	}
+	
+		.color-red .vol-headline span{
+			border-bottom: solid 3px;
+		}
 	
 	.color-red .masthead-bar-left{
 		width: 4%;
@@ -1118,6 +1157,7 @@ bdi.num {
 	}
 	
 	.color-blue .title-box h1{
+		font-family: Times New Roman;
 		color: #273573;
 		margin: 8px 0px 14px;
 		font-style: italic;
@@ -1132,7 +1172,7 @@ bdi.num {
 	}
 	
 	.color-blue .title-second-box p{
-		font-family: Arial;
+		font-family: Times New Roman;
 		font-size: 16px;
 		font-weight: normal;
 		color: #273573;
@@ -1140,7 +1180,13 @@ bdi.num {
 		font-style: italic;
 	}
 	
+		.color-blue .title-second-box p span{
+			font-family: Timews New Roman;
+			margin: 10px;
+		}
+	
 	.color-blue .vol-headline {
+		font-family: Times New Roman;
 		color: #fff;
 		background: url(../images/newsletter/head-news.png);
 		padding: 10px;
@@ -1173,7 +1219,7 @@ bdi.num {
 	
 		.color-blue .masthead-content-right ul li{
 			list-style: disc;
-			font-family: Arial;
+			font-family: Timew New Roman;
 			font-size: 18px;
 			font-weight: normal;
 			margin-bottom: 8px;
@@ -1313,6 +1359,7 @@ bdi.num {
 	}
 	
 	.color-green .title-box h1{
+		font-family: Times New Roman;
 		color: #008e91;
 		margin: 8px 0px 14px;
 		text-align: center;
@@ -1328,12 +1375,13 @@ bdi.num {
 	}
 	
 	.color-green .title-second-box p{
-		font-family: Arial;
+		font-family: Times New Roman;
 		font-size: 18px;
 		font-weight: normal;
 		color: #008e91;
 		margin: 0px 0px 4px;
 		text-align: center;
+		text-transform: uppercase;
 	}
 	
 	.color-green .vol-headline {
@@ -1367,9 +1415,11 @@ bdi.num {
 	}
 	
 	.color-yellow .title-box h1{
+		font-family: Times New Roman;
 		color: #ff9900;
 		margin: 8px 0px 8px;
 		text-align: center;
+		text-transform: uppercase;
 	}
 	
 		.color-yellow .title-box h1 img{
@@ -1377,25 +1427,34 @@ bdi.num {
 		}
 		
 		.color-yellow .title-box h1 span{
+			font-family: Times New Roman;
 			font-size: 24px;
+			text-transform: capitalize;
+		}
+		
+		.color-yellow .title-box h1 span.italic{
+			font-style: italic;
 		}
 	
 	.color-yellow .title-box p{
+		font-family: Times New Roman;
 		color: #ff9900;
 		text-align: center;
 		border-top: solid 1px #ff9900;
 		padding-top: 4px;
 		margin-bottom: 4px;
 		font-style: italic;
+		font-size: 18px;
 	}
 	
 	.color-yellow .title-second-box p{
-		font-family: Arial;
+		font-family: Times New Roman;
 		font-size: 16px;
 		font-weight: normal;
 		color: #ff9900;
 		margin: 0px 0px 4px;
 		text-align: center;
+		font-size: 18px;
 	}
 	
 		.color-yellow .title-second-box p span{
