@@ -7,7 +7,7 @@
 					<div class="vol-headline">Crittenden’s</div><!-- .vol-headline -->
 					
 					<div class="title-box">
-						<h1>Specialty Coverages Insider <span>&trade;</span></h1>
+						<h1>Specialty Coverages Insider <sup><span>&trade;</span></sup></h1>
 						<p><span>Excess & Surplus Lines</span> &#9632; <span>Admitted Carriers</span> &#9632; <span>Alternative & Offshore Markets</span></p>
 					</div><!-- .title-box -->
 					

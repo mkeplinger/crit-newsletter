@@ -7,12 +7,12 @@
 					<div class="vol-headline"><span>Crittenden's</span></div><!-- .vol-headline -->
 					
 					<div class="title-box">
-						<h1>Medical Insurance <span>&trade;</span></h1>
+						<h1>Medical Insurance <sup><span>&trade;</span></sup></h1>
 						<p><span>Malpractice</span> &#9632; <span>Professional Liability</span> &#9632; <span>Directors & Officers</span> &#9632; <span>Errors & Omissions</span></p>
 					</div><!-- .title-box -->
 					
 					<div class="title-second-box">
-						<p><span>Crittenden Research, Inc.</span> &#9632; <span>P.O. Box 1150</span> &#9632; <span>Novato, CA 94948</span> &#9632; <span>(800) 421-3483</span></p>
+						<p><span class="first">Crittenden Research, Inc.</span> &#9632; <span>P.O. Box 1150</span> &#9632; <span>Novato, CA 94948</span> &#9632; <span>(800) 421-3483</span></p>
 					</div><!-- .title-second-box -->
 				
 				</div><!-- .masthead-content-right -->

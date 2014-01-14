@@ -7,7 +7,7 @@
 					<div class="vol-headline">Crittenden’s</div><!-- .vol-headline -->
 					
 					<div class="title-box">
-						<h1>The Apartment Report <span>&trade;</span></h1>
+						<h1>The Apartment Report <sup><span>&trade;</span></sup></h1>
 					</div><!-- .title-box -->
 					
 					<div class="title-second-box">
