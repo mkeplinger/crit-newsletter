@@ -1,3 +1,14 @@
+@font-face {
+    font-family: 'britannic_boldregular';
+    src: url('font/britannic_bold-webfont.eot');
+    src: url('font/britannic_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/britannic_bold-webfont.woff') format('woff'),
+         url('font/britannic_bold-webfont.ttf') format('truetype'),
+         url('font/britannic_bold-webfont.svg#britannic_boldregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
 .clear{
 	clera: both;
 }
@@ -997,8 +1008,8 @@ bdi.num {
 	}
 	
 	.color-brown .title-box h1{
-		font-family: Britannic Bold;
-		font-weight: bold;
+		font-family: 'britannic_boldregular';
+		font-weight: normal;
 		color: #663300;
 		margin: 0px 0px 4px;
 	}
@@ -1010,22 +1021,22 @@ bdi.num {
 		}
 	
 	.color-brown .title-box p{
-		font-family: Britannic Bold;
+		font-family: 'britannic_boldregular';
 		font-weight: bold;
 		color: #663300;
 		text-align: center;
 	}
 	
 		.color-brown .title-box span{
-			font-family: Britannic Bold;
-			font-weight: bold;
+			font-family: 'britannic_boldregular';
+			font-weight: normal;
 			font-size: 16px;
 			color: #663300;
 			margin: 0px 20px;
 		}
 	
 	.color-brown .title-second-box p{
-		font-family: Britannic Bold;
+		font-family: 'britannic_boldregular';
 		font-weight: normal;
 		font-size: 16px;
 		color: #663300;
@@ -1034,16 +1045,16 @@ bdi.num {
 	}
 	
 		.color-brown .title-second-box span{
-			font-family: Britannic Bold;
-			font-weight: bold;
+			font-family: 'britannic_boldregular';
+			font-weight: normal;
 			font-size: 16px;
 			color: #663300;
 			margin: 0px 20px;
 		}
 	
 	.color-brown .vol-headline {
-		font-family: Britannic Bold;
-		font-weight: bold;
+		font-family: 'britannic_boldregular';
+		font-weight: normal;
 		color: #663300;
 		background: none;
 		padding: 10px 10px 0px;
@@ -1167,10 +1178,11 @@ bdi.num {
 	}
 	
 	.color-blue .title-box h1{
-		font-family: Times New Roman;
+		font-family: 'britannic_boldregular';
 		color: #273573;
 		margin: 8px 0px 14px;
 		font-style: italic;
+		font-weight: normal;
 	}
 	
 		.color-blue .title-box h1 span{
@@ -1191,18 +1203,20 @@ bdi.num {
 	}
 	
 		.color-blue .title-second-box p span{
-			font-family: Timews New Roman;
+			font-family: 'britannic_boldregular';
 			margin: 10px 0px;
+			font-weight: normal;
 		}
 	
 	.color-blue .vol-headline {
-		font-family: Times New Roman;
+		font-family: 'britannic_boldregular';
 		color: #fff;
 		background: url(../images/newsletter/head-news.png);
 		padding: 6px 4px 4px;
 		border-bottom: 0px;
 		background-repeat: repeat-y;
 		font-style: italic;
+		font-weight: normal;
 	}
 	
 	.color-blue .masthead-bar-left{
@@ -1229,7 +1243,7 @@ bdi.num {
 	
 		.color-blue .masthead-content-right ul li{
 			list-style: disc;
-			font-family: Timew New Roman;
+			font-family: 'britannic_boldregular';
 			font-size: 18px;
 			font-weight: normal;
 			margin-bottom: 8px;
