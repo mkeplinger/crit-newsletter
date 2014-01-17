@@ -17,7 +17,7 @@
     <link href="http://crittenden-dev.smashbrand.com/media/css/_global.css" rel="stylesheet">
     <link href="http://crittenden-dev.smashbrand.com/media/css/page-index.css" rel="stylesheet">
     <link href="http://crittenden-dev.smashbrand.com/media/js/subscriber/chosen/chosen/chosen.css" rel="stylesheet">
-    <link href="assets/css/newsletter.css" rel="stylesheet">
+    <link href="assets/css/newsletter.css?v=011714" rel="stylesheet">
 
 	<link href="http://crittenden-dev.smashbrand.com/media/js/subscriber/jquery-ui-1.9.0/css/start/jquery-ui-1.9.0.custom.min.css" rel="stylesheet">
 	<link href="assets/css/jquery-ui.css" rel="stylesheet">
