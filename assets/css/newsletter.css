@@ -9,6 +9,18 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'zapfhumnst_btbold';
+    src: url('font/zapf-humanist-601-bold-bt-webfont.eot');
+    src: url('font/zapf-humanist-601-bold-bt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/zapf-humanist-601-bold-bt-webfont.woff') format('woff'),
+         url('font/zapf-humanist-601-bold-bt-webfont.ttf') format('truetype'),
+         url('font/zapf-humanist-601-bold-bt-webfont.svg#zapfhumnst_btbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 .clear{
 	clera: both;
 }
@@ -993,13 +1005,13 @@ bdi.num {
 
 /* Masthead Brown*/
 .color-brown{
-	color: #663300;
-	border: solid 1px #663300;
+	color: #6D3011;
+	border: solid 1px #6D3011;
 	background: #fff;
 }
 
 	.color-brown .title-box{
-		border-bottom: solid 1px #663300;
+		border-bottom: solid 1px #6D3011;
 		padding: 0.5% 1% 0%;
 	}
 	
@@ -1010,20 +1022,20 @@ bdi.num {
 	.color-brown .title-box h1{
 		font-family: 'britannic_boldregular';
 		font-weight: normal;
-		color: #663300;
+		color: #6D3011;
 		margin: 0px 0px 4px;
 	}
 	
 		.color-brown .title-box h1 span{
-			font-size: 24px;
+			font-size: 20px;
 			margin: 0px;
-			margin-left: -10px;
+			margin-left: -16px;
 		}
 	
 	.color-brown .title-box p{
 		font-family: 'britannic_boldregular';
-		font-weight: bold;
-		color: #663300;
+		font-weight: normal;
+		color: #6D3011;
 		text-align: center;
 	}
 	
@@ -1031,7 +1043,7 @@ bdi.num {
 			font-family: 'britannic_boldregular';
 			font-weight: normal;
 			font-size: 16px;
-			color: #663300;
+			color: #6D3011;
 			margin: 0px 20px;
 		}
 	
@@ -1039,7 +1051,7 @@ bdi.num {
 		font-family: 'britannic_boldregular';
 		font-weight: normal;
 		font-size: 16px;
-		color: #663300;
+		color: #6D3011;
 		margin: 2px 0px 2px;
 		text-align: center;
 	}
@@ -1048,14 +1060,14 @@ bdi.num {
 			font-family: 'britannic_boldregular';
 			font-weight: normal;
 			font-size: 16px;
-			color: #663300;
+			color: #6D3011;
 			margin: 0px 20px;
 		}
 	
 	.color-brown .vol-headline {
 		font-family: 'britannic_boldregular';
 		font-weight: normal;
-		color: #663300;
+		color: #6D3011;
 		background: none;
 		padding: 10px 10px 0px;
 		border-bottom: 0px;
@@ -1064,7 +1076,7 @@ bdi.num {
 	.color-brown .masthead-bar-left{
 		width: 4%;
 		float: left;
-		background: #663300;
+		background: #6D3011;
 		min-height: 136px;
 	}
 	
@@ -1079,13 +1091,13 @@ bdi.num {
 	
 /* Masthead Red */
 .color-red{
-	color: #e10000;
-	border: solid 1px #e10000;
+	color: #D81C3F;
+	border: solid 1px #D81C3F;
 	background: #fff;
 }
 
 	.color-red .title-box{
-		border-bottom: solid 1px #e10000;
+		border-bottom: solid 1px #D81C3F;
 		padding: 0.5% 1% 0%;
 	}
 	
@@ -1094,31 +1106,39 @@ bdi.num {
 	}
 	
 	.color-red .title-box h1{
-		color: #e10000;
+		color: #D81C3F;
 		margin: 0px 0px 10px;
+		font-family: Arial;
+		font-weight: bold;
 		font-style: italic;
 	}
 	
 		.color-red .title-box h1 span{
-			font-size: 24px;
-			margin-left: -10px;
+			font-weight: bold;
+			margin-right: 10px;
+			font-size: 20px;
+			margin-left: -18px;
 		}
 	
 	.color-red .title-box p{
-		color: #e10000;
+		color: #D81C3F;
 		word-spacing: 10px;
 		margin: 0px 0px 6px;
+		font-family: Arial;
+		font-weight: bold;
 	}
 	
 			.color-red .title-box p span{
+				font-family: Arial;
+				font-weight: bold;
 				margin-right: 10px;
 			}
 	
 	.color-red .title-second-box p{
 		font-family: Arial;
+		font-weight: bold;
 		font-size: 16px;
-		font-weight: normal;
-		color: #e10000;
+		color: #D81C3F;
 		margin: 6px 0px 6px;
 	}
 	
@@ -1133,14 +1153,13 @@ bdi.num {
 	.color-red .vol-headline {
 		font-family: Times New Roman;
 		font-weight: bold;
-		color: #e10000;
+		color: #D81C3F;
 		background: none;
 		padding: 10px 10px 4px;
 		border-bottom: 0px;
 	}
 	
 		.color-red .vol-headline span{
-			border-bottom: solid 1px;
 			font-family: Times New Roman;
 			font-weight: bold;
 		}
@@ -1148,7 +1167,7 @@ bdi.num {
 	.color-red .masthead-bar-left{
 		width: 4%;
 		float: left;
-		border-right: solid 1px #e10000;
+		border-right: solid 1px #D81C3F;
 		min-height: 148px;
 	}
 	
@@ -1178,8 +1197,8 @@ bdi.num {
 	}
 	
 	.color-blue .title-box h1{
-		font-family: 'britannic_boldregular';
-		color: #273573;
+		font-family: 'zapfhumnst_btbold';
+		color: #003882;
 		margin: 8px 0px 14px;
 		font-style: italic;
 		font-weight: normal;
@@ -1194,22 +1213,22 @@ bdi.num {
 	}
 	
 	.color-blue .title-second-box p{
-		font-family: Times New Roman;
+		font-family: 'zapfhumnst_btbold';
 		font-size: 16px;
 		font-weight: normal;
-		color: #273573;
+		color: #003882;
 		margin: 0px 0px 4px;
 		font-style: italic;
 	}
 	
 		.color-blue .title-second-box p span{
-			font-family: 'britannic_boldregular';
+			font-family: 'zapfhumnst_btbold';
 			margin: 10px 0px;
 			font-weight: normal;
 		}
 	
 	.color-blue .vol-headline {
-		font-family: 'britannic_boldregular';
+		font-family: 'zapfhumnst_btbold';
 		color: #fff;
 		background: url(../images/newsletter/head-news.png);
 		padding: 6px 4px 4px;
@@ -1229,7 +1248,7 @@ bdi.num {
 	}
 	
 	.color-blue .masthead-content-right{
-		background: #273573;
+		background: #003882;
 		color: #fff;
 		width: 23.2%;
 		float: right;
@@ -1243,7 +1262,7 @@ bdi.num {
 	
 		.color-blue .masthead-content-right ul li{
 			list-style: disc;
-			font-family: 'britannic_boldregular';
+			font-family: 'zapfhumnst_btbold';
 			font-size: 18px;
 			font-weight: normal;
 			margin-bottom: 8px;
@@ -1260,11 +1279,11 @@ bdi.num {
 			
 /* Masthead Maroon */
 .color-maroon{
-	color: #840000;
+	color: #A32638;
 }
 
 	.color-maroon .title-box{
-		border-bottom: solid 1px #840000;
+		border-bottom: solid 1px #A32638;
 		padding: 0.5% 1% 0%;
 	}
 	
@@ -1273,7 +1292,9 @@ bdi.num {
 	}
 	
 	.color-maroon .title-box h1{
-		color: #840000;
+		font-family: Arial Narrow;
+		font-weight: bold;
+		color: #A32638;
 		margin: 8px 0px 8px;
 	}
 	
@@ -1282,8 +1303,18 @@ bdi.num {
 		}
 		
 		.color-maroon .title-box h1 span{
-			font-size: 24px;
-			margin-left: -10px;
+			font-size: 20px;
+			margin-left: -18px;
+			font-family: Arial Narrow;
+			font-weight: bold;
+		}
+		
+		.color-maroon .title-box h1 span.uppercase{
+			margin-left: 0px;
+			font-size: 48px;
+			text-transform: uppercase;
+			font-family: Arial Narrow;
+			font-weight: bold;
 		}
 	
 	.color-maroon .title-box p{
@@ -1291,10 +1322,10 @@ bdi.num {
 	}
 	
 	.color-maroon .title-second-box p{
-		font-family: Arial;
+		font-family: Arial Narrow;
+		font-weight: bold;
 		font-size: 18px;
-		font-weight: normal;
-		color: #840000;
+		color: #A32638;
 		margin: 0px 0px 4px;
 	}
 	
@@ -1320,7 +1351,7 @@ bdi.num {
 }
 
 	.color-blue2 .title-box{
-		border-bottom: solid 1px #000085;
+		border-bottom: solid 1px #0051ba;
 		padding: 0.5% 1% 0%;
 	}
 	
@@ -1329,8 +1360,10 @@ bdi.num {
 	}
 	
 	.color-blue2 .title-box h1{
-		color: #000085;
+		color: #0051ba;
 		margin: 8px 0px 8px;
+		font-family: Arial Narrow;
+		font-weight: bold;
 	}
 	
 		.color-blue2 .title-box h1 img{
@@ -1338,8 +1371,10 @@ bdi.num {
 		}
 		
 		.color-blue2 .title-box h1 span{
-			font-size: 24px;
-			margin-left: -10px;
+			font-size: 20px;
+			margin-left: -18px;
+			font-family: Arial Narrow;
+			font-weight: bold;
 		}
 	
 	.color-blue2 .title-box p{
@@ -1347,10 +1382,10 @@ bdi.num {
 	}
 	
 	.color-blue2 .title-second-box p{
-		font-family: Arial;
+		font-family: Arial Narrow;
 		font-size: 18px;
-		font-weight: normal;
-		color: #000085;
+		font-weight: bold;
+		color: #0051ba;
 		margin: 0px 0px 4px;
 	}
 	
@@ -1376,7 +1411,7 @@ bdi.num {
 }
 
 	.color-green .title-box{
-		border-bottom: solid 1px #008e91;
+		border-bottom: solid 1px #009ea0;
 		padding: 0.5% 1% 0%;
 	}
 	
@@ -1386,16 +1421,18 @@ bdi.num {
 	
 	.color-green .title-box h1{
 		font-family: Times New Roman;
-		color: #008e91;
+		color:  #009ea0;
 		margin: 8px 0px 8px;
 		text-align: center;
 		font-style: italic;
+		font-weight: bold;
 	}
 	
 		.color-green .title-box h1 span{
 			font-family: Times New Roman;
 			font-size: 14px;
 			margin-left: -8px;
+			font-weight: bold;
 		}
 	
 	.color-green .title-box p{
@@ -1405,8 +1442,8 @@ bdi.num {
 	.color-green .title-second-box p{
 		font-family: Times New Roman;
 		font-size: 18px;
-		font-weight: normal;
-		color: #008e91;
+		font-weight: bold;
+		color: #009ea0;
 		margin: 0px 0px 4px;
 		text-align: center;
 		text-transform: uppercase;
@@ -1444,14 +1481,15 @@ bdi.num {
 	
 	.color-yellow .title-box h1{
 		font-family: Times New Roman;
-		color: #ff9900;
+		color: #F96302;
+		font-weight: bold;
 		margin: 8px 0px 0px;
 		text-align: center;
 		text-transform: uppercase;
 	}
 	
 		.color-yellow .title-box h1 img{
-			margin-top: -10px;
+			margin-top: -14px;
 		}
 			
 		.color-yellow .title-box h1 span{
@@ -1464,7 +1502,7 @@ bdi.num {
 			font-family: Times New Roman;
 			font-size: 18px;
 			text-transform: capitalize;
-			font-weight: normal;
+			font-weight: bold;
 			margin-left: -10px;
 		}
 		
@@ -1478,23 +1516,25 @@ bdi.num {
 	
 	.color-yellow .title-box p{
 		font-family: Times New Roman;
-		color: #ff9900;
+		color: #F96302;
 		text-align: center;
-		border-top: solid 1px #ff9900;
+		border-top: solid 1px #F96302;
 		padding-top: 4px;
 		margin-bottom: 4px;
 		font-style: italic;
 		font-size: 18px;
+		font-weight: bold;
 	}
 	
 	.color-yellow .title-second-box p{
 		font-family: Times New Roman;
 		font-size: 16px;
 		font-weight: normal;
-		color: #ff9900;
+		color: #F96302;
 		margin: 0px 0px 4px;
 		text-align: center;
 		font-size: 18px;
+		font-weight: bold;
 	}
 	
 		.color-yellow .title-second-box p span{
